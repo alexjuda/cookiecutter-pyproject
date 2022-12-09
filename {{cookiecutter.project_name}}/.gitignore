@@ -5,8 +5,9 @@
 # test cache
 .hypothesis
 
-# pyenv local config
+# venvs
 .python-version
+venv
 
 # macOS
 .DS_Store
